@@ -1,15 +1,3 @@
-- <p align="left">👋 Hello there, This is Maryam Mohammadi, and I'm glad to see you here! 😍</h1>
-- <p align="left">🎓 I hold a Ph.D. in Applied Mathematics, with a focus on Numerical Analysis and Scientific computing.</h3>
-- 👀 I am deeply interested in solving Partial Differential Equations (PDEs) and Fractional PDEs, and in investigating how Machine Learning and Deep Learning can be  leveraged to address challenging scientific problems.
+**Stock Market Prediction Using LSTM and GRU**
 
-- 🌱 I’m currently working on **developing and analyzing machine-learning–based methods for PDEs and Fractional PDEs.**
-
-- 📫 How to reach me **maryam.mohammadi.math@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maryam-mohammadi-742413221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-mohammadi-742413221/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+This project uses recurrent neural networks (LSTM and GRU) to predict Google's (GOOG) stock prices. It compares different optimizers (Adam and RMSprop), loss functions (MSE and MAPE), and dropout configurations. Model performance is evaluated using historical stock data from 2010 to 2020, followed by backtesting on data from 2020 to 2021.
